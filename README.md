@@ -25,5 +25,7 @@ Alternatively, you can download and unzip the model from or run a Python script 
 
 The frontend is implemented using `gradio` as well as `Huggingface`. 
 
+`Huggingface` [click here to visit the Geoscience Exam Marker](https://huggingface.co/spaces/ShebMichel/GeoScience_Exam_Marker)
+
 
 
