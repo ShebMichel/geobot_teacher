@@ -1,8 +1,8 @@
-# geobot_teacher
+# geobot_teacher 
 A conversational chatbot which assess geoscience student's assignments. It decides whether you fail or pass!
 <p align="center">
-<img src="https://github.com/ShebMichel/qgis-animated_gif/blob/main/main/GeoBot_to_github.gif">
-</p>
+<img src="https://github.com/ShebMichel/qgis-animated_gif/blob/main/main/geoBot_to_github.gif">
+</p>  
 
 # Training gemma_2b_en For a Conversational Chatbot using Kaggle 
 
