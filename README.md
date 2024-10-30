@@ -24,8 +24,7 @@ Alternatively, you can download and unzip the model from or run a Python script 
 ## Bot Testing
 
 The frontend is implemented using `gradio` as well as `Huggingface`. 
-For testing,
-[For Huggingface click me](https://huggingface.co/spaces/ShebMichel/GeoScience_Exam_Marker)
+For testing in [Huggingface click me](https://huggingface.co/spaces/ShebMichel/GeoScience_Exam_Marker)
 
 
 
