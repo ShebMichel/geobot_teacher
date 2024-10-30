@@ -1,9 +1,9 @@
-# geobot_teacher  
+# geobot_teacher   
+
 A conversational chatbot which assess geoscience student's assignments. It decides whether you fail or pass!
 <p align="center">
-<img src="https://github.com/ShebMichel/kagglex_imagebot/blob/main/geoBot_to_github.gif">
+<img src="https://github.com/ShebMichel/kagglex_imagebot/blob/main/geoBot_to_github.gif" alt="GeoBot Demo">
 </p>
-
 
 # Training gemma_2b_en For a Conversational Chatbot using Kaggle 
 
@@ -24,6 +24,7 @@ Alternatively, you can download and unzip the model from or run a Python script 
 ## Bot Testing
 
 The frontend is implemented using `gradio` as well as `Huggingface`. 
+For testing in [Huggingface click me](https://huggingface.co/spaces/ShebMichel/GeoScience_Exam_Marker)
 
 
 
