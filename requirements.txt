@@ -1,0 +1,5 @@
+keras>=3
+keras_nlp
+gradio
+json
+
