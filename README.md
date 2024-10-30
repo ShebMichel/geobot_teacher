@@ -3,7 +3,6 @@ A conversational chatbot which assess geoscience student's assignments. It decid
 <p align="center">
 <img src="https://github.com/ShebMichel/qgis-animated_gif/blob/main/main/geoBot_to_github.gif">
 </p>
->>>>>>> 355f89ad19c7d69dda8000e01ca7d74a1b0fc586
 
 # Training gemma_2b_en For a Conversational Chatbot using Kaggle 
 
